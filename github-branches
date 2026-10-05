@@ -1,0 +1,6 @@
+$ git branch -a -v
+  bug-fix-typo                0c251d0 Fix typo in README
+* main                        5c43b6e Add bug-fix-revert with PR verification
+  remotes/origin/HEAD         -> origin/main
+  remotes/origin/bug-fix-typo 0c251d0 Fix typo in README
+  remotes/origin/main         5c43b6e Add bug-fix-revert with PR verification
